@@ -1,0 +1,4 @@
+Facility ID,Hospital Name,Measure ID,Measure Name,Score
+10001,Alpha Medical,ED1b,Median time from ED arrival to departure,240
+10002,Beta Health,ED1b,Median time from ED arrival to departure,180
+10003,Gamma Hospital,ED1b,Median time from ED arrival to departure,300
