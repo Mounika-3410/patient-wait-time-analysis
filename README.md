@@ -1,3 +1,5 @@
+![ED Wait Time Chart](wait_time_trends.png)
+
 # Patient Wait Time Analysis
 
 This project analyzes hospital emergency department (ED) wait times using publicly available healthcare data. 
